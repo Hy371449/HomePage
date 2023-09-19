@@ -1,5 +1,5 @@
 * {
-  font-family: "Roboto", sans-serif;
+  font-family: 'Roboto', sans-serif;
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -28,7 +28,7 @@ body {
   color: #fff;
   text-decoration: none;
   font-weight: 600;
-  cursor: default;
+  cursor: pointer;
   opacity: 0;
   animation: slideRight 1s ease forwards;
 }
@@ -94,7 +94,7 @@ body {
 }
 
 .text.sec-text:before {
-  content: "";
+  content: '';
   position: absolute;
   top: 0;
   left: 0;
