@@ -21,13 +21,13 @@ The primary objective of this personal homepage project is to create a home page
 
 ## Screenshots
 - Home Page
-![Home Page](./docs/home.gif)
+![Home Page](./doc/home.gif)
 
 - About Page
-![About Page](./docs/about.gif)
+![About Page](./doc/about.gif)
 
 - Projects
-![Projects Page](./docs/projects.gif)
+![Projects Page](./doc/projects.gif)
 
 ## Build
 This Project is development under node version 18.17.0. It's recommended to use a **nodejs version manager**.
