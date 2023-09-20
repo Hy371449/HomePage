@@ -5,7 +5,7 @@ Website Link: [Yue Huang's Portfolio](https://hy371449.github.io/HomePage/)
 
 Class Link: [CS 5610 Web Development](https://johnguerra.co/classes/webDevelopment_fall_2023/)
 
-Video Link: [Youtube Link]()
+Video Link: [Video Link](https://www.loom.com/share/ab04b5d229534ae1a2f7393292d05147?sid=7d416023-6e06-4b31-8f9f-4799b1c7f082)
 
 Slide Link: [Google Slide Link](https://docs.google.com/presentation/d/1yDhBpusqxbiWJfJnRVdyJIBdOp8P73pGa9EIew4sEKU/edit?usp=sharing)
 
