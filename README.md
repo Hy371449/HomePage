@@ -15,7 +15,7 @@ Design Document: [Link](https://docs.google.com/document/d/1Ky0kX4-sLbPGsW-esVjD
 The primary objective of this personal homepage project is to create a home page designed to showcase my personal information, skills, and portfolio, while providing a means for interaction. The project also allows me to get familiar with **Eslint** and **Prettier**. The website is **W3C Compliant** and shows the use of **HTML/CSS** and **JavaScript** together. 
 
 ## Features
-1. Home Page (index.html) -> The user opens this page, which contains my very brief self-introduction, resume and contact information.
+1. Home Page (index.html) -> The user opens this page, which contains my very brief self-introduction, resume and contact information.   (I noticed that your index.html file is in the main folder rather than the html folder. Maybe you should group them into your html folder? Other than that, everything else about this project looks really good and impressive!)
 2. About Page (about.html) -> This page provides a detailed introduction to myself and showcases my skills, education, exprience so far. 
 3. Projects Page (projects.html) -> This page shows the projects I have done before and some introduction to the projects.
 
